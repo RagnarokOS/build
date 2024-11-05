@@ -1,2 +1,5 @@
 # build
-Makefile-based installer/Custom ISO builder
+
+Work in progress.
+
+Makefile-based installer/Custom ISO builder. Why? Because I want to.
